@@ -1,0 +1,10 @@
+Time [ms],Date,Time,Rel.Time [s],Id,Text
+1547469721504,2019-01-14,12:42:01.504,0,Device is in neonatal mode,Mode Neonates
+1547469721504,2019-01-14,12:42:01.504,0,Selected CO2 unit is kPa,kPa
+1547469721504,2019-01-14,12:42:01.504,0,"Selected language (variable text string transmitted with this code, see 'MEDIBUS.X, Rules and Standards for Implementation' for further information)",English
+1547469721504,2019-01-14,12:42:01.504,0,"Mode PC-AC (pressure controlled, assisted-controlled)", Mode PC-AC
+1547469721504,2019-01-14,12:42:01.504,0,Device configured for intubated patient ventilation,IV - Invasive Ventilation
+1547469721504,2019-01-14,12:42:01.504,0,Volume guarantee added to current ventilation mode,/VG
+1547469721504,2019-01-14,12:42:01.504,0,Active humid unheated,Active humid unheated
+1547517502480,2019-01-15,01:58:22.480,47781,Audio pause active,Audio pause active
+1547574654494,2019-01-15,17:50:54.494,104933,Ventilator is in standby mode,Ventilator STANDBY

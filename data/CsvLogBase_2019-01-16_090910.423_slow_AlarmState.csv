@@ -1,0 +1,175 @@
+Time [ms],Date,Time,Rel.Time [s],Id,Name,Priority Old,Priority New,Phrase,State Old,State New
+1547630280219,2019-01-16,09:18:00.219,0,Minute volume > high limit,Minute volume > high limit,,29,MIN VOL HIGH,Unknown,Active
+1547630285203,2019-01-16,09:18:05.203,5,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547630363220,2019-01-16,09:19:23.220,83,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547630370220,2019-01-16,09:19:30.220,90,Respiratory rate > high limit,Respiratory rate > high limit,,29,RESP RATE HI,Unknown,Active
+1547630376204,2019-01-16,09:19:36.204,96,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547630382189,2019-01-16,09:19:42.189,102,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547630408205,2019-01-16,09:20:08.205,128,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547630413189,2019-01-16,09:20:13.189,133,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547630575207,2019-01-16,09:22:55.207,295,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547630584191,2019-01-16,09:23:04.191,304,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547631361198,2019-01-16,09:36:01.198,1081,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547631378198,2019-01-16,09:36:18.198,1098,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547631916205,2019-01-16,09:45:16.205,1636,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547631917189,2019-01-16,09:45:17.189,1637,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632043190,2019-01-16,09:47:23.190,1763,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632056206,2019-01-16,09:47:36.206,1776,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632089206,2019-01-16,09:48:09.206,1809,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632094191,2019-01-16,09:48:14.191,1814,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632164192,2019-01-16,09:49:24.192,1884,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632169192,2019-01-16,09:49:29.192,1889,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632188207,2019-01-16,09:49:48.207,1908,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632196192,2019-01-16,09:49:56.192,1916,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632294209,2019-01-16,09:51:34.209,2014,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632301209,2019-01-16,09:51:41.209,2021,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632382210,2019-01-16,09:53:02.210,2102,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632387210,2019-01-16,09:53:07.210,2107,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632404195,2019-01-16,09:53:24.195,2124,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632405195,2019-01-16,09:53:25.195,2125,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632469211,2019-01-16,09:54:29.211,2189,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632470195,2019-01-16,09:54:30.195,2190,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632537217,2019-01-16,09:55:37.217,2257,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632538217,2019-01-16,09:55:38.217,2258,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632820215,2019-01-16,10:00:20.215,2540,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547632824215,2019-01-16,10:00:24.215,2544,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547632927216,2019-01-16,10:02:07.216,2647,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547632933200,2019-01-16,10:02:13.200,2653,Minute volume < low limit,Minute volume < low limit,,29,MIN VOL LOW ,Unknown,Active
+1547632936232,2019-01-16,10:02:16.232,2656,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547632939201,2019-01-16,10:02:19.201,2659,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547634019209,2019-01-16,10:20:19.209,3739,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634032209,2019-01-16,10:20:32.209,3752,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547634231212,2019-01-16,10:23:51.212,3951,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634238196,2019-01-16,10:23:58.196,3958,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547634304197,2019-01-16,10:25:04.197,4024,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634307213,2019-01-16,10:25:07.213,4027,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547634384217,2019-01-16,10:26:24.217,4104,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634387202,2019-01-16,10:26:27.202,4107,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547634529216,2019-01-16,10:28:49.216,4249,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634531200,2019-01-16,10:28:51.200,4251,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547634586217,2019-01-16,10:29:46.217,4306,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547634592217,2019-01-16,10:29:52.217,4312,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547635339213,2019-01-16,10:42:19.213,5059,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547635359213,2019-01-16,10:42:39.213,5079,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547635379198,2019-01-16,10:42:59.198,5099,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547635383213,2019-01-16,10:43:03.213,5103,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547635842210,2019-01-16,10:50:42.210,5562,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547635846210,2019-01-16,10:50:46.210,5566,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547635905210,2019-01-16,10:51:45.210,5625,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547635906195,2019-01-16,10:51:46.195,5626,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547635962211,2019-01-16,10:52:42.211,5682,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547635982196,2019-01-16,10:53:02.196,5702,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547637803215,2019-01-16,11:23:23.215,7523,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547637818215,2019-01-16,11:23:38.215,7538,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547637945201,2019-01-16,11:25:45.201,7665,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547637950201,2019-01-16,11:25:50.201,7670,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547638515218,2019-01-16,11:35:15.218,8235,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547638517218,2019-01-16,11:35:17.218,8237,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547638592210,2019-01-16,11:36:32.210,8312,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547638604225,2019-01-16,11:36:44.225,8324,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547638652211,2019-01-16,11:37:32.211,8372,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547638655195,2019-01-16,11:37:35.195,8375,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547638684211,2019-01-16,11:38:04.211,8404,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547638712211,2019-01-16,11:38:32.211,8432,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547639178212,2019-01-16,11:46:18.212,8898,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547639184212,2019-01-16,11:46:24.212,8904,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547639202197,2019-01-16,11:46:42.197,8922,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547639208197,2019-01-16,11:46:48.197,8928,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547640663211,2019-01-16,12:11:03.211,10383,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547640664195,2019-01-16,12:11:04.195,10384,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547640963199,2019-01-16,12:16:03.199,10683,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547640972204,2019-01-16,12:16:12.204,10692,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547641267203,2019-01-16,12:21:07.203,10987,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547641289219,2019-01-16,12:21:29.219,11009,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547641370205,2019-01-16,12:22:50.205,11090,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547641388205,2019-01-16,12:23:08.205,11108,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547642224215,2019-01-16,12:37:04.215,11944,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547642230200,2019-01-16,12:37:10.200,11950,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547642268216,2019-01-16,12:37:48.216,11988,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547642279201,2019-01-16,12:37:59.201,11999,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547642348217,2019-01-16,12:39:08.217,12068,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547642356202,2019-01-16,12:39:16.202,12076,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547642845215,2019-01-16,12:47:25.215,12565,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547642858216,2019-01-16,12:47:38.216,12578,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547642871216,2019-01-16,12:47:51.216,12591,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547642872216,2019-01-16,12:47:52.216,12592,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547643109203,2019-01-16,12:51:49.203,12829,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643110203,2019-01-16,12:51:50.203,12830,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643120234,2019-01-16,12:52:00.234,12840,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547643126219,2019-01-16,12:52:06.219,12846,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643163219,2019-01-16,12:52:43.219,12883,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643164204,2019-01-16,12:52:44.204,12884,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547643193220,2019-01-16,12:53:13.220,12913,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643204204,2019-01-16,12:53:24.204,12924,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643244205,2019-01-16,12:54:04.205,12964,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643255189,2019-01-16,12:54:15.189,12975,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643277221,2019-01-16,12:54:37.221,12997,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643285190,2019-01-16,12:54:45.190,13005,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643309190,2019-01-16,12:55:09.190,13029,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643313206,2019-01-16,12:55:13.206,13033,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643331206,2019-01-16,12:55:31.206,13051,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643335190,2019-01-16,12:55:35.190,13055,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643386213,2019-01-16,12:56:26.213,13106,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643399213,2019-01-16,12:56:39.213,13119,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547643414213,2019-01-16,12:56:54.213,13134,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547643467198,2019-01-16,12:57:47.198,13187,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547643506198,2019-01-16,12:58:26.198,13226,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547643526214,2019-01-16,12:58:46.214,13246,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547643533199,2019-01-16,12:58:53.199,13253,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547643534199,2019-01-16,12:58:54.199,13254,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547644172220,2019-01-16,13:09:32.220,13892,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547644177204,2019-01-16,13:09:37.204,13897,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547644272190,2019-01-16,13:11:12.190,13992,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547644305190,2019-01-16,13:11:45.190,14025,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547644322190,2019-01-16,13:12:02.190,14042,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547644344191,2019-01-16,13:12:24.191,14064,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547644375207,2019-01-16,13:12:55.207,14095,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547644395191,2019-01-16,13:13:15.191,14115,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547644728212,2019-01-16,13:18:48.212,14448,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547644729197,2019-01-16,13:18:49.197,14449,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547645465206,2019-01-16,13:31:05.206,15185,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547645470206,2019-01-16,13:31:10.206,15190,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547645500206,2019-01-16,13:31:40.206,15220,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547645518191,2019-01-16,13:31:58.191,15238,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547645816211,2019-01-16,13:36:56.211,15536,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547645826195,2019-01-16,13:37:06.195,15546,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547648229208,2019-01-16,14:17:09.208,17949,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547648233193,2019-01-16,14:17:13.193,17953,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547652248206,2019-01-16,15:24:08.206,21968,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547652250206,2019-01-16,15:24:10.206,21970,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547652272191,2019-01-16,15:24:32.191,21992,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547652273206,2019-01-16,15:24:33.206,21993,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547662324194,2019-01-16,18:12:04.194,32044,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547662345195,2019-01-16,18:12:25.195,32065,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547663885219,2019-01-16,18:38:05.219,33605,Minute volume < low limit,Minute volume < low limit,-1,29,MIN VOL LOW ,NotActive,Active
+1547663886220,2019-01-16,18:38:06.220,33606,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547663914220,2019-01-16,18:38:34.220,33634,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547663917189,2019-01-16,18:38:37.189,33637,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547664626195,2019-01-16,18:50:26.195,34346,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547664683211,2019-01-16,18:51:23.211,34403,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547664935214,2019-01-16,18:55:35.214,34655,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547664952215,2019-01-16,18:55:52.215,34672,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547664983215,2019-01-16,18:56:23.215,34703,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547665019215,2019-01-16,18:56:59.215,34739,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547665033231,2019-01-16,18:57:13.231,34753,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547665044216,2019-01-16,18:57:24.216,34764,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547665054216,2019-01-16,18:57:34.216,34774,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547665070200,2019-01-16,18:57:50.200,34790,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547693669207,2019-01-17,02:54:29.207,63389,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547693675192,2019-01-17,02:54:35.192,63395,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547697439204,2019-01-17,03:57:19.204,67159,Minute volume < low limit,Minute volume < low limit,-1,29,MIN VOL LOW ,NotActive,Active
+1547697446219,2019-01-17,03:57:26.219,67166,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547699014231,2019-01-17,04:23:34.231,68734,Tidal volume < low Limit,Tidal volume < low Limit,,20,TIDAL VOL LO,Unknown,Active
+1547699019247,2019-01-17,04:23:39.247,68739,Tidal volume < low Limit,Tidal volume < low Limit,20,-1,,Active,NotActive
+1547699038216,2019-01-17,04:23:58.216,68758,Minute volume < low limit,Minute volume < low limit,-1,29,MIN VOL LOW ,NotActive,Active
+1547699041216,2019-01-17,04:24:01.216,68761,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547699044216,2019-01-17,04:24:04.216,68764,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547699055200,2019-01-17,04:24:15.200,68775,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547699061216,2019-01-17,04:24:21.216,68781,Minute volume < low limit,Minute volume < low limit,-1,29,MIN VOL LOW ,NotActive,Active
+1547699075216,2019-01-17,04:24:35.216,68795,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547712704226,2019-01-17,08:11:44.226,82424,Tube obstructed,Tube obstructed,,30,TUBE OBSTRUC,Unknown,Active
+1547712705241,2019-01-17,08:11:45.241,82425,Tube obstructed,Tube obstructed,30,-1,,Active,NotActive
+1547712720210,2019-01-17,08:12:00.210,82440,Minute volume < low limit,Minute volume < low limit,-1,29,MIN VOL LOW ,NotActive,Active
+1547712726210,2019-01-17,08:12:06.210,82446,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547712728241,2019-01-17,08:12:08.241,82448,Tube obstructed,Tube obstructed,-1,30,TUBE OBSTRUC,NotActive,Active
+1547712730242,2019-01-17,08:12:10.242,82450,Tube obstructed,Tube obstructed,30,-1,,Active,NotActive

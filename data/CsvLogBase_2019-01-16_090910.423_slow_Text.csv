@@ -1,0 +1,9 @@
+Time [ms],Date,Time,Rel.Time [s],Id,Text
+1547629751829,2019-01-16,09:09:11.829,0,Device is in neonatal mode,Mode Neonates
+1547629751829,2019-01-16,09:09:11.829,0,Selected CO2 unit is mmHg,mmHg
+1547629751829,2019-01-16,09:09:11.829,0,"Selected language (variable text string transmitted with this code, see 'MEDIBUS.X, Rules and Standards for Implementation' for further information)",English
+1547629751829,2019-01-16,09:09:11.829,0,"Mode PC-AC (pressure controlled, assisted-controlled)", Mode PC-AC
+1547629751829,2019-01-16,09:09:11.829,0,Device configured for intubated patient ventilation,IV - Invasive Ventilation
+1547629751829,2019-01-16,09:09:11.829,0,Volume guarantee added to current ventilation mode,/VG
+1547629751829,2019-01-16,09:09:11.829,0,Active humid unheated,Active humid unheated
+1547631374808,2019-01-16,09:36:14.808,1623,Audio pause active,Audio pause active

@@ -1,0 +1,87 @@
+Time [ms],Date,Time,Rel.Time [s],Id,Name,Priority Old,Priority New,Phrase,State Old,State New
+1547471874937,2019-01-14,13:17:54.937,0,Disconnection ventilator,Disconnection ventilator,,30,DISCONNECT  ,Unknown,Active
+1547471883922,2019-01-14,13:18:03.922,9,Disconnection ventilator,Disconnection ventilator,30,-1,,Active,NotActive
+1547471888937,2019-01-14,13:18:08.937,14,Respiratory rate > high limit,Respiratory rate > high limit,,29,RESP RATE HI,Unknown,Active
+1547471904937,2019-01-14,13:18:24.937,30,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547477592936,2019-01-14,14:53:12.936,5718,Minute volume > high limit,Minute volume > high limit,,29,MIN VOL HIGH,Unknown,Active
+1547477599920,2019-01-14,14:53:19.920,5725,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547477612951,2019-01-14,14:53:32.951,5738,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547477623936,2019-01-14,14:53:43.936,5749,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547490822930,2019-01-14,18:33:42.930,18948,Disconnection ventilator,Disconnection ventilator,-1,30,DISCONNECT  ,NotActive,Active
+1547490824915,2019-01-14,18:33:44.915,18950,Disconnection ventilator,Disconnection ventilator,30,-1,,Active,NotActive
+1547508058937,2019-01-14,23:20:58.937,36184,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547508085937,2019-01-14,23:21:25.937,36211,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547508503923,2019-01-14,23:28:23.923,36629,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547508517923,2019-01-14,23:28:37.923,36643,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547509977938,2019-01-14,23:52:57.938,38103,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547509986938,2019-01-14,23:53:06.938,38112,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547515595915,2019-01-15,01:26:35.915,43721,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547515602915,2019-01-15,01:26:42.915,43728,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547517495917,2019-01-15,01:58:15.917,45621,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547517499933,2019-01-15,01:58:19.933,45625,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547517506933,2019-01-15,01:58:26.933,45632,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547517520933,2019-01-15,01:58:40.933,45646,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547517577934,2019-01-15,01:59:37.934,45703,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547517592919,2019-01-15,01:59:52.919,45718,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547517623935,2019-01-15,02:00:23.935,45749,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547517628935,2019-01-15,02:00:28.935,45754,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547517630919,2019-01-15,02:00:30.919,45756,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547517646919,2019-01-15,02:00:46.919,45772,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547517688935,2019-01-15,02:01:28.935,45814,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547517692935,2019-01-15,02:01:32.935,45818,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547517840937,2019-01-15,02:04:00.937,45966,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547517844937,2019-01-15,02:04:04.937,45970,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547517858938,2019-01-15,02:04:18.938,45984,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547517861922,2019-01-15,02:04:21.922,45987,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547517954928,2019-01-15,02:05:54.928,46080,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547517956931,2019-01-15,02:05:56.931,46082,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547518050933,2019-01-15,02:07:30.933,46176,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547518061918,2019-01-15,02:07:41.918,46187,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547518073918,2019-01-15,02:07:53.918,46199,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547518080934,2019-01-15,02:08:00.934,46206,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547518151921,2019-01-15,02:09:11.921,46277,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547518155921,2019-01-15,02:09:15.921,46281,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547518443927,2019-01-15,02:14:03.927,46569,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547518446927,2019-01-15,02:14:06.927,46572,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547520921959,2019-01-15,02:55:21.959,49047,Tidal volume < low Limit,Tidal volume < low Limit,,20,TIDAL VOL LO,Unknown,Active
+1547520923959,2019-01-15,02:55:23.959,49049,Tidal volume < low Limit,Tidal volume < low Limit,20,-1,,Active,NotActive
+1547523340938,2019-01-15,03:35:40.938,51466,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547523351922,2019-01-15,03:35:51.922,51477,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547523369938,2019-01-15,03:36:09.938,51495,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547523404923,2019-01-15,03:36:44.923,51530,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547523443918,2019-01-15,03:37:23.918,51569,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547523445918,2019-01-15,03:37:25.918,51571,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547523462918,2019-01-15,03:37:42.918,51588,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547523463950,2019-01-15,03:37:43.950,51589,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547523501919,2019-01-15,03:38:21.919,51627,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547523509919,2019-01-15,03:38:29.919,51635,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547523563920,2019-01-15,03:39:23.920,51689,Minute volume > high limit,Minute volume > high limit,-1,29,MIN VOL HIGH,NotActive,Active
+1547523569951,2019-01-15,03:39:29.951,51695,Minute volume > high limit,Minute volume > high limit,29,-1,,Active,NotActive
+1547525184938,2019-01-15,04:06:24.938,53310,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547525203922,2019-01-15,04:06:43.922,53329,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547527903951,2019-01-15,04:51:43.951,56029,Check neonatal flow sensor,Check neonatal flow sensor,,30,NEO FLOW?   ,Unknown,Active
+1547527914952,2019-01-15,04:51:54.952,56040,Check neonatal flow sensor,Check neonatal flow sensor,30,5,NEO FLOW?   ,Active,Active
+1547527947952,2019-01-15,04:52:27.952,56073,Check neonatal flow sensor,Check neonatal flow sensor,5,-1,,Active,NotActive
+1547537940919,2019-01-15,07:39:00.919,66066,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547537943919,2019-01-15,07:39:03.919,66069,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547561586970,2019-01-15,14:13:06.970,89712,Tidal volume < low Limit,Tidal volume < low Limit,-1,20,TIDAL VOL LO,NotActive,Active
+1547561587954,2019-01-15,14:13:07.954,89713,Tidal volume < low Limit,Tidal volume < low Limit,20,-1,,Active,NotActive
+1547572910951,2019-01-15,17:21:50.951,101036,Check neonatal flow sensor,Check neonatal flow sensor,-1,30,NEO FLOW?   ,NotActive,Active
+1547572913967,2019-01-15,17:21:53.967,101039,Check neonatal flow sensor,Check neonatal flow sensor,30,5,NEO FLOW?   ,Active,Active
+1547574009944,2019-01-15,17:40:09.944,102135,Check neonatal flow sensor,Check neonatal flow sensor,5,30,NEO FLOW?   ,Active,Active
+1547574015944,2019-01-15,17:40:15.944,102141,Check neonatal flow sensor,Check neonatal flow sensor,30,5,NEO FLOW?   ,Active,Active
+1547574467921,2019-01-15,17:47:47.921,102593,Minute volume < low limit,Minute volume < low limit,,29,MIN VOL LOW ,Unknown,Active
+1547574479936,2019-01-15,17:47:59.936,102605,Respiratory rate > high limit,Respiratory rate > high limit,-1,29,RESP RATE HI,NotActive,Active
+1547574574969,2019-01-15,17:49:34.969,102700,Check air supply,Check air supply,,31,AIR SUPPLY ?,Unknown,Active
+1547574574969,2019-01-15,17:49:34.969,102700,Check O2 supply,Check O2 supply,,31,O2 SUPPLY ? ,Unknown,Active
+1547574576969,2019-01-15,17:49:36.969,102702,Disconnection ventilator,Disconnection ventilator,-1,30,DISCONNECT  ,NotActive,Active
+1547574591000,2019-01-15,17:49:51.000,102716,Power supply by battery,Power supply by battery,,29,BATTERY ON  ,Unknown,Active
+1547574592953,2019-01-15,17:49:52.953,102718,Respiratory rate > high limit,Respiratory rate > high limit,29,-1,,Active,NotActive
+1547574622969,2019-01-15,17:50:22.969,102748,Inspiratory oxygen concentration > high limit,Inspiratory oxygen concentration > high limit,,28,% O2 HIGH   ,Unknown,Active
+1547574640962,2019-01-15,17:50:40.962,102766,Inspiratory oxygen concentration > high limit,Inspiratory oxygen concentration > high limit,28,-1,,Active,NotActive
+1547574653994,2019-01-15,17:50:53.994,102779,Power supply by battery,Power supply by battery,29,-1,,Active,NotActive
+1547574653994,2019-01-15,17:50:53.994,102779,Check neonatal flow sensor,Check neonatal flow sensor,5,-1,,Active,NotActive
+1547574654931,2019-01-15,17:50:54.931,102780,Check air supply,Check air supply,31,-1,,Active,NotActive
+1547574654931,2019-01-15,17:50:54.931,102780,Check O2 supply,Check O2 supply,31,-1,,Active,NotActive
+1547574654931,2019-01-15,17:50:54.931,102780,Minute volume < low limit,Minute volume < low limit,29,-1,,Active,NotActive
+1547574654931,2019-01-15,17:50:54.931,102780,Disconnection ventilator,Disconnection ventilator,30,-1,,Active,NotActive
